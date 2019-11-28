@@ -1,4 +1,4 @@
 <?php
 $tekst = "test";
-echo $tekst;
+echo "<h1>" . $tekst . "</h1>";
 ?>
